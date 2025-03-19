@@ -56,4 +56,5 @@ if command -v nvim >/dev/null 2>&1; then
     alias vim=nvim
     alias vi=nvim
 fi
-export PATH=/Users/bytedance/.local/bin:$PATH
+export PATH=$HOME/.local/bin:$PATH
+
